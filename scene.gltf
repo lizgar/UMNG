@@ -372,13 +372,13 @@
   ],
   "images": [
     {
-      "uri": "phong2_baseColor.png"
+      "uri": "https://lizgar.github.io/UMNG/phong2_baseColor.png"
     },
     {
-      "uri": "phong2_metallicRoughness.png"
+      "uri": "https://lizgar.github.io/UMNG/phong2_metallicRoughness.png"
     },
     {
-      "uri": "phong2_normal.png"
+      "uri": "https://lizgar.github.io/UMNG/phong2_normal.png"
     }
   ],
   "materials": [
