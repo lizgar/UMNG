@@ -372,13 +372,13 @@
   ],
   "images": [
     {
-      "uri": "textures/phong2_baseColor.png"
+      "uri": "phong2_baseColor.png"
     },
     {
-      "uri": "textures/phong2_metallicRoughness.png"
+      "uri": "phong2_metallicRoughness.png"
     },
     {
-      "uri": "textures/phong2_normal.png"
+      "uri": "phong2_normal.png"
     }
   ],
   "materials": [
